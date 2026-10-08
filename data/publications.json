@@ -1,0 +1,196 @@
+{
+  "orcid": "0000-0002-8573-7938",
+  "last_updated": "2026-10-08T07:37:40.042804+00:00",
+  "source": "https://orcid.org/0000-0002-8573-7938",
+  "publications": [
+    {
+      "title": "Beyond bulk physics: interfacial and confinement effects in aqueous microdroplets",
+      "date": "2026-10-01",
+      "year": "2026",
+      "journal": "Reports on Progress in Physics",
+      "type": "Journal Article",
+      "doi": "10.1088/1361-6633/aea9a7",
+      "url": "https://doi.org/10.1088/1361-6633/aea9a7"
+    },
+    {
+      "title": "Morphological signatures of bacteria‐laden drying droplets: A multimodal analysis across host fluids",
+      "date": "2026-08-31",
+      "year": "2026",
+      "journal": "Droplet",
+      "type": "Journal Article",
+      "doi": "10.1002/dro2.70092",
+      "url": "https://doi.org/10.1002/dro2.70092"
+    },
+    {
+      "title": "Integrating machine learning and drying dynamics of complex fluid droplets for pattern recognition",
+      "date": "2026-08-01",
+      "year": "2026",
+      "journal": "Current Opinion in Colloid & Interface Science",
+      "type": "Journal Article",
+      "doi": "10.1016/j.cocis.2026.102022",
+      "url": "https://doi.org/10.1016/j.cocis.2026.102022"
+    },
+    {
+      "title": "Dried biofluid droplet morphologies for automated and scalable disease classification",
+      "date": "2026-04-01",
+      "year": "2026",
+      "journal": "Droplet",
+      "type": "Journal Article",
+      "doi": "10.1002/dro2.70054",
+      "url": "https://doi.org/10.1002/dro2.70054"
+    },
+    {
+      "title": "From Droplet to Diagnosis: Spatio‐Temporal Pattern Recognition in Drying Biofluids",
+      "date": "2026-02-01",
+      "year": "2026",
+      "journal": "Advanced Intelligent Systems",
+      "type": "Journal Article",
+      "doi": "10.1002/aisy.202500550",
+      "url": "https://doi.org/10.1002/aisy.202500550"
+    },
+    {
+      "title": "Speech-driven sentence type classification in Chokri using traditional and transfer learning methods",
+      "date": "2026-01-01",
+      "year": "2026",
+      "journal": "International Journal of Speech Technology",
+      "type": "Journal Article",
+      "doi": "10.1007/s10772-025-10233-w",
+      "url": "https://doi.org/10.1007/s10772-025-10233-w"
+    },
+    {
+      "title": "Pattern recognition of drying lysozyme–glucose droplets using machine learning classifiers",
+      "date": "2024-11-01",
+      "year": "2024",
+      "journal": "Physica A: Statistical Mechanics and its Applications",
+      "type": "Journal Article",
+      "doi": "10.1016/j.physa.2024.130141",
+      "url": "https://doi.org/10.1016/j.physa.2024.130141"
+    },
+    {
+      "title": "Multi-class identification of tonal contrasts in Chokri using supervised machine learning algorithms",
+      "date": "2024-01-01",
+      "year": "2024",
+      "journal": "HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS",
+      "type": "Journal Article",
+      "doi": "10.1057/S41599-024-03113-2",
+      "url": "https://doi.org/10.1057/S41599-024-03113-2"
+    },
+    {
+      "title": "Role of motility and nutrient availability in drying patterns of algal droplets",
+      "date": "2024-01-01",
+      "year": "2024",
+      "journal": "SCIENTIFIC REPORTS",
+      "type": "Journal Article",
+      "doi": "10.1038/S41598-024-73836-4",
+      "url": "https://doi.org/10.1038/S41598-024-73836-4"
+    },
+    {
+      "title": "Texture identification in liquid crystal-protein droplets using evaporative drying, generalized additive modeling, and K-means Clustering",
+      "date": "2024-01-01",
+      "year": "2024",
+      "journal": "EUROPEAN PHYSICAL JOURNAL E",
+      "type": "Journal Article",
+      "doi": "10.1140/EPJE/S10189-024-00429-4",
+      "url": "https://doi.org/10.1140/EPJE/S10189-024-00429-4"
+    },
+    {
+      "title": "Drying of bio-colloidal sessile droplets: Advances, applications, and perspectives",
+      "date": "2023-01-01",
+      "year": "2023",
+      "journal": "ADVANCES IN COLLOID AND INTERFACE SCIENCE",
+      "type": "Journal Article",
+      "doi": "10.1016/J.CIS.2023.102870",
+      "url": "https://doi.org/10.1016/J.CIS.2023.102870"
+    },
+    {
+      "title": "Hierarchical Exploration of Drying Patterns Formed in Drops Containing Lysozyme, PBS, and Liquid Crystals",
+      "date": "2022-01-01",
+      "year": "2022",
+      "journal": "PROCESSES",
+      "type": "Journal Article",
+      "doi": "10.3390/PR10050955",
+      "url": "https://doi.org/10.3390/PR10050955"
+    },
+    {
+      "title": "Bio-colloidal Drying Droplets: Current Trends and Future Perspectives on Image Processing Applications",
+      "date": "2021-01-01",
+      "year": "2021",
+      "journal": "Academia Letters,",
+      "type": "Journal Article",
+      "doi": "10.20935/AL2661",
+      "url": "https://doi.org/10.20935/AL2661"
+    },
+    {
+      "title": "Statistical Image Analysis of Drying Bovine Serum Albumin Droplets in Phosphate Buffered Saline B",
+      "date": "2021-01-01",
+      "year": "2021",
+      "journal": "Biomedical Data Mining for Information Retrieval: Methodologies, Techniques and Applications",
+      "type": "Book Chapter",
+      "doi": "10.1002/9781119711278.ch8",
+      "url": "https://doi.org/10.1002/9781119711278.ch8"
+    },
+    {
+      "title": "Temperature and Concentration Dependence of Human Whole Blood and Protein Drying Droplets",
+      "date": "2021-01-01",
+      "year": "2021",
+      "journal": "BIOMOLECULES",
+      "type": "Journal Article",
+      "doi": "10.3390/BIOM11020231",
+      "url": "https://doi.org/10.3390/BIOM11020231"
+    },
+    {
+      "title": "Temperature-dependent Pattern Formation in Drying Aqueous Droplets of Lysozyme",
+      "date": "2021-01-01",
+      "year": "2021",
+      "journal": "International Journal of Innovative Research in Physics",
+      "type": "Journal Article",
+      "doi": "10.15864/ijiip.2307",
+      "url": "https://doi.org/10.15864/ijiip.2307"
+    },
+    {
+      "title": "A comparative study of the drying evolution and dried morphology of two globular proteins in de-ionized water solutions",
+      "date": "2020-01-01",
+      "year": "2020",
+      "journal": "RSC ADVANCES",
+      "type": "Journal Article",
+      "doi": "10.1039/D0RA01748E",
+      "url": "https://doi.org/10.1039/D0RA01748E"
+    },
+    {
+      "title": "Concentration-driven phase transition and self-assembly in drying droplets of diluting whole blood",
+      "date": "2020-01-01",
+      "year": "2020",
+      "journal": "SCIENTIFIC REPORTS",
+      "type": "Journal Article",
+      "doi": "10.1038/S41598-020-76082-6",
+      "url": "https://doi.org/10.1038/S41598-020-76082-6"
+    },
+    {
+      "title": "A Comparative Study of the Phase Separation of a Nematic Liquid Crystal in the Self-assembling Drying Protein Drops",
+      "date": "2019-01-01",
+      "year": "2019",
+      "journal": "MRS ADVANCES",
+      "type": "Journal Article",
+      "doi": "10.1557/ADV.2019.209",
+      "url": "https://doi.org/10.1557/ADV.2019.209"
+    },
+    {
+      "title": "Image-Based Analysis of Patterns Formed in Drying Drops",
+      "date": "2019-01-01",
+      "year": "2019",
+      "journal": "PATTERN RECOGNITION AND MACHINE INTELLIGENCE, PREMI 2019, PT I",
+      "type": "Journal Article",
+      "doi": "10.1007/978-3-030-34869-4_62",
+      "url": "https://doi.org/10.1007/978-3-030-34869-4_62"
+    },
+    {
+      "title": "Phase separation of a nematic liquid crystal in the self-assembly of lysozyme in a drying aqueous solution drop",
+      "date": "2019-01-01",
+      "year": "2019",
+      "journal": "MRS COMMUNICATIONS",
+      "type": "Journal Article",
+      "doi": "10.1557/MRC.2019.18",
+      "url": "https://doi.org/10.1557/MRC.2019.18"
+    }
+  ]
+}
